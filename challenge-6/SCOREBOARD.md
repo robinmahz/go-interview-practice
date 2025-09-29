@@ -18,6 +18,7 @@
 | PolinaSvet | 7 | 7 |
 | RezaSi | 7 | 7 |
 | VFarsiyants | 7 | 7 |
+| Xmilton | 7 | 7 |
 | YounesBouchbouk | 7 | 7 |
 | ZaharBorisenko | 7 | 7 |
 | ardista1702 | 7 | 7 |
