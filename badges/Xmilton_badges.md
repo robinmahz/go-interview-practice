@@ -4,14 +4,14 @@
 *Click any badge to visit the Go Interview Practice repository!*
 
 <!-- Full-size Card Badge - Clickable -->
-[![Go Interview Practice Achievement Card](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/krypton-io.svg)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice Achievement Card](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Xmilton.svg)](https://github.com/RezaSi/go-interview-practice)
 
 <!-- Compact Horizontal Badge - Clickable -->
-[![Go Interview Practice Compact](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/krypton-io_compact.svg)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice Compact](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Xmilton_compact.svg)](https://github.com/RezaSi/go-interview-practice)
 
 ### 🔄 Dynamic Shields.io Badge
 <!-- Dynamic Badge (auto-updates) -->
-[![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/krypton-io.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Xmilton.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 
 ### 📊 Static Badges Collection
 [![Challenges Solved](https://img.shields.io/badge/Go_Challenges-4%2F30-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
@@ -26,7 +26,7 @@
 
 ### 📈 Your Achievement Summary
 
-**👤 Username:** @krypton-io  
+**👤 Username:** @Xmilton  
 **🏅 Achievement Level:** 🌱 **Beginner Developer**  
 **📊 Classic Challenges:** 4/30 (13.3% complete)  
 **🔗 Repository:** [Go Interview Practice](https://github.com/RezaSi/go-interview-practice)  
