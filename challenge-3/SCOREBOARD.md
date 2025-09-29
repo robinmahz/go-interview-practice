@@ -50,6 +50,7 @@
 | jordanhimawan | 5 | 5 |
 | korranat9 | 5 | 5 |
 | krmaxwell | 5 | 5 |
+| krypton-io | 5 | 5 |
 | kuzminprog | 5 | 5 |
 | lajosbnk | 5 | 5 |
 | lanmanul | 5 | 5 |
@@ -59,6 +60,7 @@
 | mick4711 | 5 | 5 |
 | muhammedkucukaslan | 5 | 5 |
 | ne0phyte | 5 | 5 |
+| nosrio | 5 | 5 |
 | odelbos | 5 | 5 |
 | perekoshik | 5 | 5 |
 | preetsinghmakkar | 5 | 5 |
