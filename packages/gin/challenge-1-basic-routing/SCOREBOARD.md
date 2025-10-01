@@ -2,6 +2,7 @@
 
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 22-7-co | 13 | 13 |
 | BrianHuang813 | 13 | 13 |
 | GleeN987 | 13 | 13 |
 | MarioPaez | 13 | 13 |
