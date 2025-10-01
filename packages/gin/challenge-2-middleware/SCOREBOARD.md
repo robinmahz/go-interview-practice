@@ -2,6 +2,7 @@
 
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 22-7-co | 16 | 16 |
 | BrianHuang813 | 16 | 16 |
 | PolinaSvet | 16 | 16 |
 | odelbos | 16 | 16 |
